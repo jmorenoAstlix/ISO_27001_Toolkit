@@ -1,93 +1,92 @@
-# ISO27kToolkit
+#ISO27kKit de herramientas
 
 
-## Introdução
+## Introducción
 
-O ISO27k Toolkit é uma coleção de materiais genéricos relacionados ao ISMS, contribuídos por membros do ISO27k Forum , a maioria licenciada sob o Creative Commons. Somos muito gratos pela generosidade e espírito comunitário dos doadores ao nos permitir compartilhá-los com você, gratuitamente.
+El kit de herramientas ISO27k es una colección de materiales genéricos relacionados con SGSI aportados por miembros del Foro ISO27k, la mayoría con licencia Creative Commons. Estamos muy agradecidos por la generosidad y el espíritu comunitario de los donantes al permitirnos compartirlos con ustedes de forma gratuita.
 
-Este é um trabalho em andamento: contribuições adicionais são bem-vindas, seja para preencher lacunas, oferecer críticas construtivas ou fornecer exemplos adicionais dos itens listados abaixo.
+Este es un trabajo en progreso: se aceptan contribuciones adicionales, ya sea para llenar vacíos, ofrecer críticas constructivas o proporcionar ejemplos adicionales de los elementos que se enumeran a continuación.
 
-Observe os avisos de direitos autorais e os Termos de Uso.
+Tenga en cuenta los avisos de derechos de autor y los Términos de uso.
 
->AVISO LEGAL: esses materiais foram doados por indivíduos com diferentes formações, competências e conhecimentos, trabalhando para uma variedade de organizações em vários contextos. São modelos ou modelos, pontos de partida, se você quiser. Os riscos de suas informações são únicos; portanto, você deve avaliar e tratar seus riscos como você e sua gerência entenderem. Não nos culpe se o ISO27k Toolkit for inadequado ou inadequado para as suas circunstâncias: estamos simplesmente tentando ajudar!
+>DESCARGO DE RESPONSABILIDAD: Estos materiales fueron donados por personas con diferentes antecedentes, habilidades y conocimientos, que trabajan para una variedad de organizaciones en diversos contextos. Son modelos o plantillas, puntos de partida, por así decirlo. Los riesgos para su información son únicos; por lo tanto, debe evaluar y tratar sus riesgos como usted y su gerencia consideren adecuado. No nos culpe si el kit de herramientas ISO27k es inadecuado o inadecuado para sus circunstancias: ¡simplemente estamos tratando de ayudarlo!
 
-## Visão geral do SGSI e materiais introdutórios
+## Descripción general del SGSI y materiales introductorios
 
-- **Fluxograma do processo de implementação e certificação do SGSI v4.1** - um esboço de uma página de todo o processo, contribuído em inglês por Osama Salah e [Gary Hinson](gary@isect.com) . Também em árabe e francês, graças a [Bachir Benyammi](https://benyammi.com/) ,Agradecimentos alemães a Markus Kähler e hebraico graças à [Titans Security Academy](http://www.titans2.com/)
-- **Apresentação de visão geral da implementação e certificação do ISMS v2** , aportada por Marty Carter.
-- **O fluxograma do processo de gerenciamento de riscos de informações do SGSI** descreve as atividades de gerenciamento de riscos de informações, contribuídas por [Bachir Benyammi](https://benyammi.com/).
-- **Lista de normas ISO27k** mantidas por [Gary Hinson](gary@isect.com).
-- [**ISO27k FAQ**](https://www.iso27001security.com/html/faq.html) contribuído por membros do [ISO27k Forum](https://www.iso27001security.com/html/forum.html).
+- **Diagrama de flujo del proceso de implementación y certificación de ISMS v4.1**: un resumen de una página de todo el proceso, aportado en inglés por Osama Salah y [Gary Hinson](gary@isect.com). También en árabe y francés gracias a [Bachir Benyammi](https://benyammi.com/), alemán gracias a Markus Kähler y hebreo gracias a [Titans Security Academy](http://www.titans2.com/)
+- **Presentación de una descripción general de la implementación y certificación de ISMS v2**, aportada por Marty Carter.
+- **El diagrama de flujo del proceso de gestión de riesgos de la información del SGSI** describe las actividades de gestión de riesgos de la información, aportado por [Bachir Benyammi](https://benyammi.com/).
+- **Lista de estándares ISO27k** mantenida por [Gary Hinson](gary@isect.com).
+- [**Preguntas frecuentes sobre ISO27k**](https://www.iso27001security.com/html/faq.html) aportadas por miembros del [Foro ISO27k](https://www.iso27001security.com/html/forum. HTML).
 
 ![](https://www.iso27001security.com/assets/images/autogen/ISO27k-ISMS-implementation-and-certification-process-4v1-thumbnail_1.gif)
 
-## Diretiva de gerenciamento, gerenciamento e implementação de SGSI
+## Directiva de gestión, gestión e implementación del SGSI
 
-- **Estimador de projeto de implementação do SGSI** - uma ferramenta para estimar o prazo necessário para implementar um SGSI. Contribuição de Gary Hinson , Ed Hodgson e Marty Carter.
-- **Plano de implementação do SGSI** - um plano básico ou básico para você expandir e alterar para se adequar à sua situação. Contribuição de Marty Carter.
-- **Rastreador de implementação do ISMS** - um rastreador de status combinado para o ISMS obrigatório e controles de segurança opcionais na ISO / IEC 27001: 2013 , Declaração de aplicabilidade e análise de lacunas, usado para rastrear o progresso do projeto de implementação do ISMS em direção à certificação e além. Contribuição de Ed Hodgson e equipe, em inglês e espanhol.
-- **Lista de verificação de documentação obrigatória do ISMS** - umguia detalhado e explícito da documentação e registros formalmente exigidos ou recomendados para certificação segundo a ISO / IEC 27001 . Contribuição de membros do Fórum ISO27k .
-- **O modelo de caso de negócios genérico do ISO27k ISMS v3** descreve os benefícios e custos normalmente associados a um ISO27k ISMS para uma proposta de projeto de investimento ou implementação ou solicitação de orçamento. Contribuição de Gary Hinson .
-- **Apresentação de conscientização de segurança ISO27k v2** aportada por Mohan Kamat.
-- **Agenda para a reunião de Revisão da Gestão do SGSI** com base nas contribuições de Sean Malward, Richard Regalado e ISO / IEC 27001 .
-- **Ferramenta de avaliação da maturidade do programa de segurança da informação ISO27k**, contribuída peloPrograma de Segurança Cibernética da [EDUCAUSE](https://www.educause.edu/) , pelo Conselho de Segurança da Informação do Ensino Superior e por [Bachir Benyammi](https://benyammi.com/)
+- **Estimador de proyectos de implementación SGSI** - una herramienta para estimar el tiempo necesario para implementar un SGSI. Contribuido por Gary Hinson, Ed Hodgson y Marty Carter.
+- **Plan de implementación del SGSI**: un plan básico o básico que puede ampliar y cambiar para adaptarse a su situación. Contribuido por Marty Carter.
+- **ISMS Implementation Tracker**: un rastreador de estado combinado para ISMS obligatorio y controles de seguridad opcionales en ISO/IEC 27001:2013, Declaración de aplicabilidad y análisis de brechas, utilizado para rastrear el progreso del proyecto de implementación desde ISMS hacia la certificación y más allá. Contribución de Ed Hodgson y equipo, en inglés y español.
+- **Lista de verificación de documentación obligatoria del SGSI**: una guía detallada y explícita de la documentación y los registros formalmente requeridos o recomendados para la certificación ISO/IEC 27001. Contribuido por miembros del Foro ISO27k.
+- **La plantilla genérica de caso de negocio ISO27k ISMS v3** describe los beneficios y costos típicamente asociados con un ISO27k ISMS para una propuesta de proyecto de inversión o implementación o solicitud de cotización. Contribuido por Gary Hinson.
+- **Presentación de concientización sobre seguridad ISO27k v2** aportada por Mohan Kamat.
+- **Agenda para la reunión de Revisión de la Gestión del SGSI** basada en contribuciones de Sean Malward, Richard Regalado e ISO/IEC 27001.
+- **Herramienta de evaluación de madurez del programa de seguridad de la información ISO27k**, aportado por el Programa de Ciberseguridad [EDUCAUSE](https://www.educause.edu/), el Consejo de Seguridad de la Información de la Educación Superior y por [Bachir Benyammi](https:/ /benyammi.com/)
 
-## Modelo de políticas de segurança da informação
+## Plantilla de política de seguridad de la información
 
-- Política geral de alto nível do SGSI contribuída por K. Faisal Javed.
-- Política de gerenciamento e controle de mudanças, contribuída por um doador generoso.
-- Política de classificação de informações contribuída por Michael Muehlberger.
-- Política de malware contribuída por Gary Hinson .
-- Política de segurança de terceirização contribuída por Aaron D'Souza.
-- Política de conscientização e treinamento de segurança contribuída por Gary Hinson .
+- Política general de alto nivel del SGSI aportada por K. Faisal Javed.
+- Política de gestión y control del cambio, aportada por un generoso donante.
+- Política de clasificación de información aportada por Michael Muehlberger.
+- Política de malware aportada por Gary Hinson.
+- Política de seguridad de subcontratación aportada por Aaron D'Souza.
+- Política y capacitación sobre concientización sobre seguridad aportadas por Gary Hinson.
 
-## Procedimentos, diretrizes e outros documentos de suporte do SGSI
+## Procedimientos, directrices y otros documentos de respaldo de SGSI
 
-- Procedimento de ação corretiva contribuído por Richard Regalado.
-- Formulário de registro de ação corretiva / preventiva, contribuído por Richard Regalado.
-- Formulário de restauração de dados contribuído por Vladimir Prodan.
-- Planilha de análise de risco da FMEA contribuída por Bala Ramanan.
-- Novo quenteMapeamento PIBR-ISO27k - desde privacidade, compliance, risco informações e sobreposição de segurança da informação, faz sentido usar um SGSI ISO27k para alcançar e manter a conformidade com a UE G eral D ata P rotection R egulamento - contribuído pelo Fórum ISO27k .
-- Inventário de ativos de informação contribuído por Steve McColl.
-- Matriz de classificação da informação contribuída por Richard Regalado.
-- Registro de risco de informação v2 contribuído por Madhukar.
-- A planilha de verificação cruzada de controles de segurança da informação em inglês, francês e espanhol classifica os controles da ISO / IEC 27002 . Contribuição e manutenção de membros do Fórum ISO27k .
-- E-mail   introdutório apresentando o projeto de implementação do SGSI e a análise inicial de lacunas / análise de impacto nos negócios para os gerentes. Contribuição de Marty Carter.
-- Diretriz de auditoria ISMS v2 criada e mantida por membros do ISO27k Forum .
-- Procedimento de auditoria interna do SGSI v3, contribuído por Richard Regalado.
-- Procedimento de ação preventiva contribuído por Richard Regalado.
-- Statement of Applicability (SoA) template - um esforço de equipe disponível em Inglês, Espanhol, Alemão, Francês e Português.
+- Procedimiento de acciones correctivas aportado por Richard Regalado.
+- Formulario de registro de acciones correctivas/preventivas, aportado por Richard Regalado.
+- Formulario de restauración de datos aportado por Vladimir Prodan.
+- Hoja de cálculo de análisis de riesgos FMEA aportada por Bala Ramanan.
+- Nuevo mapeo GDPR-ISO27k: desde la privacidad, el cumplimiento, el riesgo de la información y la seguridad de la información, tiene sentido utilizar un SGSI ISO27k para lograr y mantener el cumplimiento con el Reglamento general de protección de datos de la UE, aportado por el Foro ISO27k.
+- Inventario de activos de información aportado por Steve McColl.
+- Matriz de clasificación de información aportada por Richard Regalado.
+- Registro de riesgos de información v2 aportado por Madhukar.
+- Hoja de trabajo de verificación cruzada de controles de seguridad de la información en inglés, francés y español clasifica los controles ISO/IEC 27002. Contribución y mantenimiento de los miembros del Foro ISO27k.
+- Correo electrónico introductorio que presenta el proyecto de implementación del SGSI y análisis inicial de brechas/análisis de impacto comercial para gerentes. Contribuido por Marty Carter.
+- Guía de auditoría ISMS v2 creada y mantenida por miembros del Foro ISO27k.
+- Procedimiento de auditoría interna SGSI v3, aportado por Richard Regalado.
+- Procedimiento de actuación preventiva aportado por Richard Regalado.
+- Plantilla de Declaración de aplicabilidad (SoA): un esfuerzo de equipo disponible en inglés, español, alemán, francés y portugués.
 
-## Descrições / funções e responsabilidades relacionadas ao ISMS
+## Descripciones/roles y responsabilidades relacionadas con el SGSI
 
-- Organização de segurança da informação contribuída por Gary Hinson .
-- Descrições de cargo relacionadas à infosec genéricas, contribuídas por Gary Hinson . Modelos genéricos de descrição de função / aviso de vaga de um pager para várias posições da infosec.
-- A tabela RASCI v5 aloca funções e responsabilidades associadas aos controles de segurança na ISO / IEC 27002 , originalmente contribuído por Matthias Wagner, agora em inglês e francês.
-- Papéis e responsabilidades para o planejamento de contingências contribuídos por Gary Hinson e Larry Kowalski.
-- Papéis e responsabilidades do gerenciamento de ativos de informação contribuídos por Mohan Kamat.
+- Organización de seguridad de la información aportada por Gary Hinson.
+- Descripciones genéricas de puestos relacionados con la seguridad de la información aportadas por Gary Hinson. Plantillas genéricas de descripción de trabajo/aviso de vacante de una página para varios puestos de seguridad de la información.
+- La tabla RASCI v5 asigna roles y responsabilidades asociadas con los controles de seguridad en ISO/IEC 27002, aportada originalmente por Matthias Wagner, ahora en inglés y francés.
+- Funciones y responsabilidades para la planificación de contingencias aportadas por Gary Hinson y Larry Kowalski.
+- Funciones y responsabilidades de la gestión de activos de información aportadas por Mohan Kamat.
 
-## Faça o download de todo o ISO27k Toolkit
+## Descargue el kit de herramientas ISO27k completo
 
-Faça o download do [ISO27k Toolkit completo](https://github.com/LGPD-GDPR-Grupo-de-Estudo/ISO27kToolkit/releases/tag/v1) Ícone Zip- um arquivo ZIP contendo a maioria dos materiais acima.
+Descargue el [ISO27k Toolkit] completo (https://github.com/LGPD-GDPR-Grupo-de-Estudo/ISO27kToolkit/releases/tag/v1) Icono Zip: un archivo ZIP que contiene la mayoría de los materiales anteriores.
 
-Essa é a versão 2019-12 lançada em dezembro de 2019.
-
+Esta es la versión 2019-12 lanzada en diciembre de 2019.
  
 
-## Termos e Condições de Uso
+## Términos y condiciones de uso
 
-Leia e respeite os avisos de direitos autorais (se houver) nos arquivos individuais.
+Lea y respete los avisos de derechos de autor (si los hubiera) en archivos individuales.
 
-A maioria dos itens do ISO27k Toolkit é liberada sob a licença Creative Commons Attribution-Noncommercial-Share Alike . Você pode reproduzir, circular, usar e criar trabalhos derivados desses materiais, desde que: (a) eles não sejam vendidos ou incorporados a produtos comerciais; (b) sejam atribuídos adequadamente ao ISO27k Forum baseado aqui no ISO27001security.com , e (c) se forem publicados ou compartilhados, os trabalhos derivados serão compartilhados sob os mesmos termos.
+La mayoría de los elementos del kit de herramientas ISO27k se publican bajo la licencia Creative Commons Atribución-No Comercial-Compartir Igual. Puede reproducir, circular, utilizar y crear trabajos derivados de estos materiales, siempre que: (a) no se vendan ni se incorporen a productos comerciales; (b) se atribuyen adecuadamente al Foro ISO27k con sede aquí en ISO27001security.com, y (c) si se publican o comparten, los trabajos derivados se compartirán bajo los mismos términos.
 
-Alguns itens pertencem aos autores individuais ou a seus empregadores. Leia os avisos de direitos autorais incorporados e, se necessário, entre em contato diretamente com os detentores dos direitos autorais para obter permissão para usá-los ou reproduzi-los. [É claro que eles nos deram permissão para compartilhá-los com você!]
+Algunos artículos pertenecen a los autores individuales o a sus empleadores. Lea los avisos de derechos de autor incorporados y, si es necesario, comuníquese directamente con los titulares de los derechos de autor para obtener permiso para usarlos o reproducirlos. [¡Por supuesto que nos dieron permiso para compartirlos contigo!]
 
-Apesar de nossos melhores esforços, não são erros e omissões. O ISO27k Toolkit é um esforço da comunidade de crowdsourcing que envolve muitas pessoas, a maioria delas tão ocupadas que mal conseguem gastar tempo para se envolver. Por favor, não atire no mensageiro! Ajude-nos a identificar e corrigir os erros, preencher as lacunas, corrigir links quebrados e, geralmente, melhorar o Kit de Ferramentas para o benefício da comunidade global, enviando um e-mail para Gary@isect.com . Comentários construtivos e conteúdo adicional são especialmente bem-vindos. Obrigado.
- 
+A pesar de nuestros mejores esfuerzos, hay errores y omisiones. El kit de herramientas ISO27k es un esfuerzo comunitario de crowdsourcing que involucra a muchas personas, la mayoría de ellas tan ocupadas que apenas pueden dedicar tiempo a involucrarse. ¡Por favor no disparen al mensajero! Ayúdenos a identificar y corregir errores, completar espacios, reparar enlaces rotos y, en general, mejorar el kit de herramientas para beneficio de la comunidad global enviándonos un correo electrónico a Gary@isect.com. Los comentarios constructivos y el contenido adicional son especialmente bienvenidos. Gracias.
 
-## Apoie este projeto
 
-Embora este [site](https://www.iso27001security.com/index.html) , o ISO27k Toolkit e o [ISO27k Forum](https://www.iso27001security.com/html/forum.html) sejam fornecidos totalmente gratuitos, existem custos substanciais na prestação desses serviços. Além dos custos envolvidos na publicação e manutenção do site, investimos centenas de horas por ano em materiais de escrita, respondendo a consultas e assim por diante em conjunto com a comunidade ISO27k. Somos muito gratos aos patrocinadores comerciais que anunciam neste site e àqueles que contribuem com materiais. Se você valoriza esse serviço e deseja que o projeto continue, clique nos anúncios para visitar os sites dos patrocinadores. Você nunca sabe, você pode encontrar exatamenteo que você precisa ali mesmo e nos ajudará a manter este site em funcionamento. Obrigado também!
+## Apoya este proyecto
+
+Aunque este [sitio web](https://www.iso27001security.com/index.html), el kit de herramientas ISO27k y el [Foro ISO27k](https://www.iso27001security.com/html/forum.html) se proporcionan en su totalidad de forma gratuita, la prestación de estos servicios entraña costes sustanciales. Además de los costos que implica publicar y mantener el sitio web, invertimos cientos de horas al año en escribir materiales, responder consultas, etc. junto con la comunidad ISO27k. Estamos muy agradecidos con los patrocinadores comerciales que se anuncian en este sitio y con quienes contribuyen con materiales. Si valoras este servicio y quieres que el proyecto continúe, haz clic en los anuncios para visitar los sitios web de los patrocinadores. Nunca se sabe, es posible que encuentre exactamente lo que necesita allí mismo y eso nos ayudará a mantener este sitio en funcionamiento. ¡Gracias también!
 
 
 ---
